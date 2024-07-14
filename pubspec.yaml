@@ -1,0 +1,63 @@
+name: flutter_assignment_2024
+description: "A new Flutter project."
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+
+  cupertino_icons: ^1.0.6
+  floating_bottom_bar: ^0.0.3
+  badges: ^3.1.2
+  percent_indicator: ^4.2.3
+  gap: ^3.0.1
+  intl: ^0.19.0
+  iconsax_flutter: ^1.0.0
+  get: ^4.6.6
+  simple_circular_progress_bar: ^1.0.2
+  http: ^1.2.1
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^3.0.0
+
+
+flutter:
+
+
+  uses-material-design: true
+
+
+
+  assets:
+    - assets/images/
+
+    - assets/images/menu_no_01.png
+    - assets/images/menu_no_02.png
+    - assets/images/menu_no_03.png
+    - assets/images/menu_no_04.png
+    - assets/images/menu_no_05.png
+    - assets/images/menu_no_06.png
+ 
+  fonts:
+    - family: Noto Serif Bengali
+      fonts:
+        - asset: assets/fonts/NotoSerifBengali-Regular.ttf
+
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins-Regular.ttf
+ 
+ 
