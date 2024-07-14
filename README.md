@@ -89,7 +89,7 @@ flutter run
 
 ## Used Packages
 
-CraftyBay integrates the following packages to enhance functionality:
+App integrates the following packages to enhance functionality:
   - cupertino_icons: ^1.0.6
   - floating_bottom_bar: ^0.0.3
   - badges: ^3.1.2
